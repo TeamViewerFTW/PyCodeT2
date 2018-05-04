@@ -5,7 +5,7 @@ B = random.random()
 G = random.random()
 
 turtle.pen()
-turtle.shape("train")
+turtle.shape("turtle")
 while True:
     turtle.pen(5)
     R = random.random()
