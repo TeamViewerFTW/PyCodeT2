@@ -1,4 +1,6 @@
 import turtle
-import Tkinter
 from tkinter import tk
- 
+import tkinter
+import ShuffleOof
+
+call ShuffleOof
